@@ -1,2 +1,2 @@
-# echo-client-server
-Basic, multi-threaded socket-based client-to-server connection.
+# Echo Client-Server
+ Basic, multi-threaded socket-based client-to-server connection.
